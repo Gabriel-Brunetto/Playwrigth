@@ -42,12 +42,19 @@ Se quiser visualizar os resultados dos testes em um relatório interativo:
 
 <h2>📜 Estrutura do Projeto</h2>
 
-📁 Playwright-Serverest<br/>
-├── 📄 package.json           
-├── 📄 playwright.config.js<br/>
-├── 📁 tests               
-│   ├── 📄 api.spec.js    
-└── 📄 README.md      
+📁 Playwright-Serverest</br>
+├── 📁 src</br>
+│   ├── 📄 usuarios.js</br>
+│   ├── 📄 login.js</br>
+│   ├── 📄 produtos.js</br>
+├── 📁 tests</br>
+│   ├── 📄 usuarios.spec.js</br>
+│   ├── 📄 login.spec.js</br>
+│   ├── 📄 produtos.spec.js</br>
+├── 📄 package.json</br>
+├── 📄 playwright.config.js</br>
+├── 📄 README.md</br>
+   
 
 <h2>📝 Testes Implementados</h2>
 
